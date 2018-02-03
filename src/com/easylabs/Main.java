@@ -479,9 +479,6 @@ public class Main {
         ForExample_7();
         ForExample_8();
 
-        LoopsOptimization();
-
-        InfLoops();
 
         HomeworkExample_1();
         HomeworkExample_2();
